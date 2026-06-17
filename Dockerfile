@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
+FROM pytorch/pytorch:2.7.0-cuda12.8-cudnn9-devel
